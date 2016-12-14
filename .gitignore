@@ -1,6 +1,5 @@
 .settings/*
 build/*
-WebContent/*
 .classpath
 .project
 .DS_Store
